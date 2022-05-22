@@ -1,7 +1,6 @@
 package sber;
 import java.util.*;
 
-//Программа изменения остатков на карте
 public class Main {
     public static void main(String[] args) {
         Account account1122 = new Account(1122, 1000, "Герман");
